@@ -1,5 +1,4 @@
-# wiselypay
-
+# Math Solver
 A new Flutter project.
 
 ## Getting Started
